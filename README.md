@@ -23,3 +23,4 @@ Explore the theater environment by moving around using the VR controller.
 To watch a movie, approach the movie screen and interact with it using the VR controller. A movie selection menu will appear, allowing you to choose from a variety of movies.
 Once you have selected a movie, the screen will display the movie in full-screen mode. You can adjust the volume or pause/resume the movie using the VR controller.
 When you are finished watching the movie, you can exit the full-screen mode and return to the theater environment.
+![Screenshot 2023-02-26 005107](https://user-images.githubusercontent.com/83156880/221378907-f161f9a6-d061-4e85-b4b4-7b6f211f6231.jpg)
