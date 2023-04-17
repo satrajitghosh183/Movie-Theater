@@ -1,5 +1,4 @@
-
-#VR Movie theater
+VR Movie theater
 
 A brief description of what this project does and who it's for
 
