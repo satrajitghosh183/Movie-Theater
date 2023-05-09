@@ -24,4 +24,5 @@ Once you have selected a movie, the screen will display the movie in full-screen
 When you are finished watching the movie, you can exit the full-screen mode and return to the theater environment.
 ![Screenshot 2023-02-26 005107](https://user-images.githubusercontent.com/83156880/221378907-f161f9a6-d061-4e85-b4b4-7b6f211f6231.jpg)
 ![WhatsApp Image 2023-03-28 at 01 06 23](https://github.com/satrajitghosh183/Movie-Theater/assets/83156880/a076b766-900d-4bad-b23a-d83a94caa267)
-![Uploading WhatsApp Image 2023-03-28 at 01.06.23.jpg…]()
+![WhatsApp Image 2023-03-28 at 01 07 18](https://github.com/satrajitghosh183/Movie-Theater/assets/83156880/207459f6-378e-4412-9976-862f3ce59bfa)
+
