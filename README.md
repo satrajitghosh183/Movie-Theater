@@ -26,3 +26,10 @@ When you are finished watching the movie, you can exit the full-screen mode and 
 ![WhatsApp Image 2023-03-28 at 01 06 23](https://github.com/satrajitghosh183/Movie-Theater/assets/83156880/a076b766-900d-4bad-b23a-d83a94caa267)
 ![WhatsApp Image 2023-03-28 at 01 07 18](https://github.com/satrajitghosh183/Movie-Theater/assets/83156880/207459f6-378e-4412-9976-862f3ce59bfa)
 
+Movie Reccomendation Architecture 
+
+![Screenshot 2023-05-14 151535](https://github.com/satrajitghosh183/Movie-Theater/assets/83156880/cbaff3dc-005d-4277-8bb2-aa56d2b7f068)
+
+
+
+
